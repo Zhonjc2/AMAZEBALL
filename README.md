@@ -1,4 +1,4 @@
-# AMAZEBALL
+# SNOWBALL
 A weather simulator 
 
 Come from SXUFE Zhao JiaChen
